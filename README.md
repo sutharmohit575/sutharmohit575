@@ -81,16 +81,6 @@ fun_fact: I believe curiosity is the best superpower 🚀
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sutharmohit575&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
