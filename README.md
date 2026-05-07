@@ -12,7 +12,7 @@
 
 *"I am curious about learning new things and tech."*
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blueviolet?style=for-the-badge)](https://mohit-portfolio-zmdr.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blueviolet?style=for-the-badge)](https://sutharmohit.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sutharmohit575)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suthar_mohit_575)
 [![Twitter/X](https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/suthar_mohit575)
@@ -36,7 +36,7 @@ fun_fact: I believe curiosity is the best superpower 🚀
 - 🌱 Always **learning something new** in the tech world
 - 💡 Love to **experiment** with new tools & frameworks
 - 🤝 Open to **collaborations** and interesting opportunities
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/sutharmohit575)** or check out my **[Portfolio](https://mohit-portfolio-zmdr.onrender.com/)**
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/sutharmohit575)** or check out my **[Portfolio](https://sutharmohit.vercel.app/)**
 
 ---
 
@@ -108,7 +108,7 @@ fun_fact: I believe curiosity is the best superpower 🚀
 
 I'm always open to connecting with fellow developers, collaborating on projects, or just having a tech chat. Feel free to reach out!
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-mohit--portfolio-blueviolet?style=flat-square)](https://mohit-portfolio-zmdr.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-mohit--portfolio-blueviolet?style=flat-square)](https://sutharmohit.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sutharmohit575-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sutharmohit575)
 [![Instagram](https://img.shields.io/badge/Instagram-suthar__mohit__575-pink?style=flat-square&logo=instagram)](https://instagram.com/suthar_mohit_575)
 [![X](https://img.shields.io/badge/X-suthar__mohit575-black?style=flat-square&logo=x)](https://x.com/suthar_mohit575)
