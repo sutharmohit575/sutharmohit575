@@ -110,7 +110,7 @@ I'm always open to connecting with fellow developers, collaborating on projects,
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-mohit--portfolio-blueviolet?style=flat-square)](https://sutharmohit.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sutharmohit575-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sutharmohit575)
-[![Instagram](https://img.shields.io/badge/Instagram-suthar__mohit__575-pink?style=flat-square&logo=instagram)](https://instagram.com/suthar_mohit_575)
+[![Instagram](https://img.shields.io/badge/Instagram-suthar__mohit__575-pink?style=flat-square&logo=instagram)](https://instagram.com/sutharmohit575_)
 [![X](https://img.shields.io/badge/X-suthar__mohit575-black?style=flat-square&logo=x)](https://x.com/suthar_mohit575)
 
 ---
