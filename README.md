@@ -14,7 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blueviolet?style=for-the-badge)](https://sutharmohit.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sutharmohit575)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suthar_mohit_575)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sutharmohit575_)
 [![Twitter/X](https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/suthar_mohit575)
 
 </div>
